@@ -14,7 +14,7 @@ default_img:
 
 # Profile settings
 name: 'KoJunHee'
-profile_img: 'https://github.com/yoonhyemin/yoonhyemin.github.io/raw/master/img/me.jpg'
+profile_img: 'https://github.com/yoonhyemin/yoonhyemin.github.io/blob/master/img/me.jpg?raw=true'
 profile: 'Developer - android front / web server'
 social:
   github: 'https://github.com/kojunhee'

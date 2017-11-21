@@ -1,4 +1,4 @@
-# Site settings
+i# Site settings
 email: kjh338076@gmail.com
 baseurl: ""
 paginate: 5
@@ -14,7 +14,7 @@ default_img:
 
 # Profile settings
 name: 'KoJunHee'
-profile_img: 'https://avatars3.githubusercontent.com/u/23334403?s=460&v=4'
+profile_img: 'https://github.com/yoonhyemin/yoonhyemin.github.io/raw/master/img/me.jpg'
 profile: 'Developer - android front / web server'
 social:
   github: 'https://github.com/kojunhee'

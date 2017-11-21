@@ -14,9 +14,9 @@ default_img:
 
 # Profile settings
 name: 'Yoonhyemin'
-profile_img: 'https://avatars2.githubusercontent.com/u/24292263?s=400&u=26abd8f348a147b7741cba262db0609a6fe8178f&v=4'
+profile_img: 
 profile: 'Developer - Application / web / big data Analyst'
-social: 'https://www.instagram.com/hyeminny_'
+social: 
   github: 'https://github.com/yoonhyemin'
 
 # Build settings

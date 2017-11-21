@@ -14,7 +14,7 @@ default_img:
 
 # Profile settings
 name: 'Yoonhyemin'
-profile_img: 
+profile_img: 'https://github.com/yoonhyemin/yoonhyemin.github.io/raw/master/img/me.jpg' 
 profile: 'Developer - Application / web / big data Analyst'
 social: 'https://www.instagram.com/hyeminny_'
   github: 'https://github.com/yoonhyemin'
